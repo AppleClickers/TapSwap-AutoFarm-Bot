@@ -1,5 +1,4 @@
-[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/sho6ot)
-
+![image](https://github.com/user-attachments/assets/c3edd483-0c30-4999-8ad4-ded39a53335b)
 
 
 ## Functionality
